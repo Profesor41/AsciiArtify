@@ -15,7 +15,7 @@
     - Cluster URL (https://kubernetes.default.svc/)  
     - Namespace (Потрібне ім`я)  
 
-2. Та натискаємо "Create"
+2. Та натискаємо "Create"  
 
 ![Відео](images/4.6.gif)
 
