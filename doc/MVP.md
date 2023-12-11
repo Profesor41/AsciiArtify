@@ -17,6 +17,7 @@
 
 2. Та натискаємо "Create"  
 
-![Відео](/Users/br/Documents/GitHub/AsciiArtify/images/4.6.gif)
+<img src="/images/4.6.gif" alt="Demo">
+
 
 
